@@ -12,4 +12,10 @@ namespace Assignment_02
         {
         }
     }
+    public enum Audience
+    {
+        World,
+        Group,
+        Special
+    }
 }
